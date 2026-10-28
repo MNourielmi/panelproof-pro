@@ -1,0 +1,28 @@
+PANELPROOF PRO v1.3 — FIRST CUSTOMER KIT
+
+POSITIONING
+Offline FAT/SAT documentation builder for small panel shops and system integrators. It organizes test evidence and produces printable handover records. It does NOT perform electrical testing or certify compliance.
+
+30-SECOND DEMO
+1. Open index.html in Chrome or Edge.
+2. Click Load sample demo and confirm.
+3. Search for 'Emergency' and filter by Blocked.
+4. Clear search and filter; review evidence and statuses.
+5. Click Print / Save PDF. Observe SAMPLE DATA warning.
+6. Export full register CSV and issue list CSV.
+
+PILOT OFFER — PRICE HYPOTHESIS
+CAD 49 one-time evaluation license, subject to feedback and testing. Customization quote starts at CAD 199, scoped individually. No guarantee of suitability for regulated use.
+
+COLD OUTREACH EMAIL
+Subject: Offline FAT/SAT reporting for your panel shop
+Hi, I built PanelProof, a lightweight offline tool to document control-panel verification checks, evidence, punch-list issues, and printable FAT/SAT reports. I am looking for two panel shops willing to review a short demo and tell me whether it saves them time. Can I send a 90-second walkthrough?
+
+FOLLOW-UP AFTER INTEREST
+Thanks for your interest. I can share a sample report and demonstrate the workflow. This is an early-stage documentation tool, not a certified electrical safety system. Which part of your existing FAT/SAT documentation takes the most time?
+
+PAYMENT AND DELIVERY
+Before accepting money: test all major workflows on Windows, establish clear license/refund terms, confirm the buyer's needs, and set up an authorized payment link (e.g. Stripe Payment Link or another supported provider). Do not imply payments or customers exist yet.
+
+SUCCESS METRIC
+Within 7 days: 20 targeted contacts, 5 replies, 2 live demos, 1 paid pilot target. These are goals, not forecasts or achieved results.

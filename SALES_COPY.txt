@@ -1,0 +1,17 @@
+PRODUCT: PanelProof — Offline FAT/SAT Documentation Builder
+
+HEADLINE: Stop rebuilding electrical commissioning checklists from scratch.
+
+DESCRIPTION: PanelProof is a lightweight, offline-first commissioning record builder for control panels, automation contractors, panel shops, and maintenance teams. Capture project identity, work through 20 editable-status verification points, record test evidence, add custom checks, and print a structured sign-off report as PDF. Import/export project files in JSON. No subscription, login, or cloud upload required.
+
+IDEAL CUSTOMER: Small electrical panel builders, system integrators, and commissioning technicians who currently use ad hoc Word and Excel forms.
+
+PILOT OFFER (suggested, not validated market price): CAD $49 one-time for an evaluation copy; CAD $199 for a company-branded version with a tailored checklist. Pricing is hypothetical until validated with customers.
+
+OUTREACH MESSAGE:
+Subject: A faster way to document panel FAT/SAT checks
+Hi, I built a small offline tool for electrical panel commissioning records. It lets technicians track verification results, record evidence, and generate a printable FAT/SAT handover report without a subscription. I'm offering a short pilot and can adapt the checklist to your workflow. Would a 2-minute demo be useful?
+
+DEMO FLOW: Open index.html; enter sample project details; mark three checks Pass and one Fail; add a custom check; Print/Save PDF; Export JSON.
+
+HONEST LIMITATION: This is an early-stage documentation tool, not a certified compliance platform. Do not claim regulatory certification, verified security, or existing customers.

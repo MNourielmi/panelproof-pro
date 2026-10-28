@@ -1,0 +1,7 @@
+PanelProof Pro v1.5
+- Added standalone commercial landing page (landing.html) with honest early-access positioning.
+- Added launch checklist focused on first-customer validation and payment readiness.
+- Re-ran 12-check browser regression suite against v1.4 application: PASS.
+- Application functionality remains v1.4; no new application code changes.
+
+v1.6: Added deploy-ready public_site, customer discovery playbook, lead tracker, and deployment/security notes. Application logic unchanged from v1.4.
